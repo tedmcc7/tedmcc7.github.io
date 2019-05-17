@@ -3,7 +3,13 @@
 
 $text-color: #46433A;
 $anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$background-color: #fffff0;
+$title-color: #F7C600;
+
+.headtitles {
+	color: $title-color;
+	font-size: 1.8em;
+}
 
 body {
 	font-family: 'Vollkorn', serif;
